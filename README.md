@@ -1,4 +1,4 @@
-## Hi I'm Aaron 
+## Hi I'm Aaron👋
 
 🎓 Computer Science student at UNSW  
 💻 Interested in full-stack development and building useful software  
