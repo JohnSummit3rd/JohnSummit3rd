@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi I'm Aaron 
 
-<!--
-**JohnSummit3rd/JohnSummit3rd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at UNSW  
+💻 Interested in full-stack development and building useful software  
+🚀 Currently working on personal projects and improving my development skills
 
-Here are some ideas to get you started:
+## 🔧 Main Tech Stack
+- JavaScript
+- React
+- HTML / CSS
+- Node.js
+- Next.js
+- Typescript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/aaron-zhang4812/
+- Email: aaronzhang363@gmail.com
+
+## 🏸Fun Facts
+- I'm addicted too playing Badminton
+- I love watching anime
+- I have a pet cat
+- I love Boba
