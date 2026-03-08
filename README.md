@@ -1,6 +1,6 @@
 ## Hi I'm Aaron👋
 
-🎓 Computer Science student at UNSW  
+🎓 Software Engineering student at UNSW  
 💻 Interested in full-stack development and building useful software  
 🚀 Currently working on personal projects and improving my development skills
 
